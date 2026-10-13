@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Learning React",
+    "author": "Alex Banks",
+    "image": "https://picsum.photos/200/300?1",
+    "price": "Free"
+  },
+  {
+    "id": 2,
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "image": "https://picsum.photos/200/300?2",
+    "price": "Free"
+  },
+  {
+    "id": 3,
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "image": "https://picsum.photos/200/300?3",
+    "price": "Free"
+  },
+  {
+    "id": 4,
+    "title": "You Don’t Know JS",
+    "author": "Kyle Simpson",
+    "image": "https://picsum.photos/200/300?4",
+    "price": "Free"
+  },
+  {
+    "id": 5,
+    "title": "HTML & CSS: Design and Build Websites",
+    "author": "Jon Duckett",
+    "image": "https://picsum.photos/200/300?5",
+    "price": "Free"
+  },
+  {
+    "id": 6,
+    "title": "CSS Secrets",
+    "author": "Lea Verou",
+    "image": "https://picsum.photos/200/300?6",
+    "price": "Free"
+  },
+  {
+    "id": 7,
+    "title": "Python Crash Course",
+    "author": "Eric Matthes",
+    "image": "https://picsum.photos/200/300?7",
+    "price": "Free"
+  },
+  {
+    "id": 8,
+    "title": "Fluent Python",
+    "author": "Luciano Ramalho",
+    "image": "https://picsum.photos/200/300?8",
+    "price": "Free"
+  },
+  {
+    "id": 9,
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "image": "https://picsum.photos/200/300?9",
+    "price": "Free"
+  },
+  {
+    "id": 10,
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "image": "https://picsum.photos/200/300?10",
+    "price": "Free"
+  },
+  {
+    "id": 11,
+    "title": "Head First Design Patterns",
+    "author": "Eric Freeman",
+    "image": "https://picsum.photos/200/300?11",
+    "price": "Free"
+  },
+  {
+    "id": 12,
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "image": "https://picsum.photos/200/300?12",
+    "price": "Free"
+  }
+]
